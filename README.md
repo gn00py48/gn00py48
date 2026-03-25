@@ -5,24 +5,26 @@
 <div align="center">
 
 <a href="https://github.com/gn00py48">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=646CFF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Geunwoo+Kang+%F0%9F%91%8B;Front-End+%26+Back-End+Developer;Building+Real-Time+%26+AI-Driven+Web;LikeLion+Dongguk+%F0%9F%A6%81+%F0%9F%A7%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=646CFF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Geunwoo+Kang+%F0%9F%91%8B;Front-End+%26+Back-End+Developer;Building+Real-Time+%26+AI-Driven+Web;LikeLion+Dongguk+%F0%9F%A6%81+%F0%9F%A7%A1" />
 </a>
 
-<br/>
 </div>
 
+---
 
 ## 🚀 About Me
 
 - 🎓 **동국대학교 컴퓨터공학전공** 4학년 재학 중
 - 🦁 **LikeLion Dongguk** 12th, 13th, 14th
-- 💻 **React, TypeScript** 기반의 직관적인 UI/UX 구현과 멀티모달 AI 연동에 관심이 많습니다.
-- ⚡ **Spring Boot, Redis Pub/Sub, WebSocket**을 활용한 이벤트 기반 실시간 데이터 처리 및 아키텍처 설계를 즐깁니다.
-- 🎯 실제 사용자 환경에서 동작하고, 사용자 경험을 혁신하는 풀사이클(Full-Cycle) 서비스 개발을 지향합니다.
+- 💻 **React, TypeScript** 기반 UI/UX 및 멀티모달 AI 연동
+- ⚡ **Spring Boot, Redis Pub/Sub, WebSocket** 기반 실시간 시스템 설계
+- 🎯 실제 사용자 환경에서 동작하는 Full-Cycle 서비스 개발 지향
 
 ---
 
 <div align="center">
+
+## 🛠 Tech Stack
 
 ### 🎨 Front-End
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
@@ -47,37 +49,38 @@
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 
+</div>
 
 ---
 
 ## 📌 Featured Projects
 
-> ### 🛒 D-Order : QR 기반 스마트 주문 서비스
-> **[FE/BE Full-Cycle 구축 및 실시간 트래픽 핸들링]**
-> - **WebSocket & Redis Pub/Sub** 기반 실시간 주문/서빙 상태 동기화 파이프라인 설계
-> - 프론트엔드 UI 즉각 렌더링 및 축제 기간 **1,500명 이상의 실제 사용자** 환경에서 지연 없는 안정적 운영
-> - `React` `Spring Boot` `Redis` `WebSocket`
-
-<br/>
-
-> ### 🌏 Mark!t : 전통시장 외국인 도우미 플랫폼
-> **[AI 멀티모달 연동 및 다국어 지원 프론트엔드 주도]**
-> - 맞춤형 페르소나 **AI 챗봇** 및 프롬프트 엔지니어링 API 연동
-> - **멀티모달 이미지 검색**(Vision) 및 실시간 텍스트/양방향 음성 번역 기능 UI/UX 전담 구현
-> - `React` `TypeScript` `AI API`
+### 🛒 D-Order : QR 기반 스마트 주문 서비스
+**[FE/BE Full-Cycle 구축 및 실시간 트래픽 핸들링]**
+- WebSocket & Redis Pub/Sub 기반 실시간 상태 동기화 파이프라인 설계
+- 1,500명 이상의 실제 사용자 환경에서 안정적 실시간 처리
+- `React` `Spring Boot` `Redis` `WebSocket`
 
 ---
+
+### 🌏 Mark!t : 전통시장 외국인 도우미 플랫폼
+**[AI 멀티모달 연동 및 다국어 지원 프론트엔드]**
+- 페르소나 기반 AI 챗봇 및 프롬프트 엔지니어링 연동
+- 이미지 검색 및 실시간 번역 UI/UX 구현
+- `React` `TypeScript` `AI API`
+
+---
+
+<div align="center">
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gn00py48&show_icons=true&theme=tokyonight&hide_border=true&title_color=646CFF" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gn00py48&layout=compact&theme=tokyonight&hide_border=true&title_color=646CFF" width="48%" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=gn00py48&show_icons=true&theme=tokyonight&hide_border=true&title_color=646CFF" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gn00py48&layout=compact&theme=tokyonight&hide_border=true&title_color=646CFF" width="48%" />
+
+</div>
 
 ---
-
-<br/>
 
 <div align="center">
 
